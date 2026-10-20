@@ -32,21 +32,7 @@ A full-stack task management application built with the MERN stack. TaskFlow ena
 | Deployment | Vercel |
 | Version Control | Git, GitHub |
 
-## 📸 Screenshots
 
-Add your screenshots to the `screenshots/` folder in this repository.
-
-Suggested screenshots:
-- Login and registration page
-- Main task dashboard
-- Task creation or editing form
-- Task filters and task statuses
-
-After uploading the images, display them here using their actual filenames. For example:
-
-```markdown
-![TaskFlow Dashboard](screenshots/dashboard.png)
-```
 
 ## 🏗️ Project Structure
 
